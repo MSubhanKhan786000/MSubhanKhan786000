@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @MSubhanKhan786000
+- 👀 I’m interested in creating exciting new mobile applications.
+- 🌱 I’m currently learning React JS and other web development frameworks like backend Node.js, Golang, Python, etc.
+- 💼 I'm working as a Software Engineer with a specialty in React Native.
+- 💞️ I’m looking to collaborate on mobile app development projects.
+- 📫 How to reach me: khanmsubhan588@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different coding techniques.
+- 🌐 GitHub: [MSubhanKhan786000](https://github.com/MSubhanKhan786000)
+- 🌐 LinkedIn: [Muhammad Subhan Khan](https://www.linkedin.com/in/muhammad-subhan-khan-2a7303255/)
