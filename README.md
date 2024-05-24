@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS and other web development frameworks like backend Node.js, Golang, Python, etc.
 - 💼 I'm working as a Software Engineer with a specialty in React Native.
 - 💞️ I’m looking to collaborate on mobile app development projects.
-- 📫 How to reach me: khanmsubhan588@gmail.com
+- 📫 How to reach me: Ammaramjad353@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different coding techniques.
 - 🌐 GitHub: [MSubhanKhan786000](https://github.com/MSubhanKhan786000)
